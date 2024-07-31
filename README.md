@@ -1,3 +1,12 @@
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+Build 2 machine learning models: a regression model to predict Black-Scholes option price and a classification model to predict whether Black-Scholes model overestimates or underestimate the actual option price.
+
+**Tools**: Python (NumPy, Pandas, Scikit-learn, ...), MS Excel, PowerPoint
+
+**Skills**: Exploratory Data Analysis, Applied Statistics, Data Visualization, Machine Learning, Feature Engineering, Project Management, Team Collaboration, Business Communication, 
+
 ## **1. Exploratory Data Analysis**
 
 The dataset contains **1,680 records** and **6 columns** as followings: 
